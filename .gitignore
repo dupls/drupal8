@@ -62,8 +62,8 @@
 /config*
 /drush*
 /scripts*
-/modules*
-/profiles*
+/web/modules*
+/web/profiles*
 .gitattributes
 .ht.router.php
 
