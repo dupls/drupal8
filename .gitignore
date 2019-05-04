@@ -64,6 +64,7 @@
 /scripts*
 /web/modules*
 /web/profiles*
+/web
 .gitattributes
 .ht.router.php
 
