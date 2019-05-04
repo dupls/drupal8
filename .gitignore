@@ -67,4 +67,5 @@
 /web
 .gitattributes
 .ht.router.php
+drupal8.code-workspace
 
